@@ -9,7 +9,7 @@ public class AnimalTest {
 		demo.lyric(cat);		
 		demo.lyric(dog + "\n" + cat);
 
-		Cow cow = new Cow(); 	
+		Dog cow = new Dog(); 	
 		demo.lyric(cow);		
 		
 	}
