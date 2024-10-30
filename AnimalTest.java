@@ -3,7 +3,7 @@ public class AnimalTest {
 	public static void main(String args[]) {
 		PolymorphismDemo demo = new PolymorphismDemo();
 		demo.polymorphismUsingFor();
-		Dog dog = new Dog(); // 若換成Cat dog = new Cat(); 結果就不一樣
+		Cat dog = new Cat(); // 若換成Cat dog = new Cat(); 結果就不一樣
 		demo.lyric(dog);
 
 	}
