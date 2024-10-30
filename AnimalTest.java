@@ -1,6 +1,5 @@
 public class AnimalTest {
 
-	// This a good example to explain OO
 	public static void main(String args[]) {
 		PolymorphismDemo demo = new PolymorphismDemo();
 		demo.polymorphismUsingFor();
