@@ -5,7 +5,8 @@ public class AnimalTest {
 		demo.polymorphismUsingFor();
 		Dog dog = new Dog(); // 若換成Cat dog = new Cat(); 結果就不一樣
 		demo.lyric(dog);
-
+		Cat cat = new Cat(); // 若換成Cat dog = new Cat(); 結果就不一樣
+		demo.lyric(cat);
 	}
 }
 
