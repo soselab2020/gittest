@@ -10,8 +10,9 @@ public class AnimalTest {
 		demo.lyric(dog + "\n" + cat);
 
 		Dog cow = new Dog(); 	
+
 		demo.lyric(cow);		
-		
+		demo.lyric(cow);
 	}
 }
 
