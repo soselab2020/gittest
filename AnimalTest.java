@@ -1,6 +1,7 @@
 public class AnimalTest {
 
 	public static void main(String args[]) {
+		// Polymorphism Demo!
 		PolymorphismDemo demo = new PolymorphismDemo();
 		demo.polymorphismUsingFor();
 		Dog dog = new Dog(); // 若換成Cat dog = new Cat(); 結果就不一樣
