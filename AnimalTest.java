@@ -8,6 +8,7 @@ public class AnimalTest {
 		Cat cat = new Cat(); // 若換成Cat dog = new Cat(); 結果就不一樣
 		demo.lyric(cat);		
 		demo.lyric(dog + "\n" + cat);
+		demo.lyric(dog);		
 	}
 }
 
